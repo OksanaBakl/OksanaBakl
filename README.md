@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OksanaBakl
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Java Script
 - 📫 How to reach me oksana.molesha@gmail.com
 
 <!---
